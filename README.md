@@ -27,7 +27,7 @@ Behavior Driven Development (BDD)
 Feature files written in Gherkin syntax
 Step Definitions implemented using Selenium WebDriver
 ---------------------------------------------------------------------
-4. Test Scenarios Covered
+3. Test Scenarios Covered
 Positive Scenarios
 Verify successful login using valid credentials.
 Verify successful logout after login.
